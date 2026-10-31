@@ -17,8 +17,8 @@ In this lab, I learned how to use arrays and loops to control four LEDs with jus
 -	lab11_starter_main.cpp file (provided by my instructor)
 # Circuit Diagram 
 <img width="985" height="559" alt="image" src="https://github.com/user-attachments/assets/d8d9079d-4242-460d-af4a-92727841835a" />
-# Little DEMO
 
+# Little DEMO
 https://github.com/user-attachments/assets/4cc236aa-7e03-4dd6-b67f-52f543f06074
 
 
